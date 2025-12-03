@@ -59,39 +59,37 @@ class InfrastructureDevOpsEngineer:
 <div align="center">
 
 | Certification | Score | Status |
-|--------------|-------|--------|
-| 🐧 **Linux Professional Institute - Linux Essentials** | 800/500 (100% all areas) | ✅ Certified |
-| ☁️ **Google Cloud LLM** | - | ✅ Certified |
-| 🏅 **LeadWithAIAgents Hackathon 2025** | Silicon Valley | 🏆 Participant |
+|---------------|-------|--------|
+| **Linux Professional Institute - Linux Essentials** | 800/500 (100% all areas) | ✅ Certified |
+| **Google Cloud LLM** | - | ✅ Certified |
+| **LeadWithAIAgents Hackathon 2025** | Silicon Valley | 🏆 Participant |
 
 </div>
 
-**Goal:** 🎯 IHK Certification with 100% (like my Linux cert!)
-
 ---
 
-## 🛠️ Tech Arsenal
+## 🎛️ Tech Arsenal
 
 <div align="center">
 
-### 💾 Programming & Scripting
+### Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Infrastructure & Networking
+### Infrastructure & Networking
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🤖 AI & Development
+### AI & Development
+![Claude](https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=D4A574)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### ☁️ Cloud & Tools
+### Cloud & Tools
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
