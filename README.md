@@ -15,7 +15,7 @@
 ```python
 class InfrastructureDevOpsEngineer:
     def __init__(self):
-        self.name = "Philipp Prinzen"
+        self.name = "Philipp"
         self.role = "Junior Developer | Infrastructure Specialist"
         self.location = "Hamburg, Germany"
         self.education = "Fachinformatiker Anwendungsentwicklung @ BBQ Hamburg"
