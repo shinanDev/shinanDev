@@ -97,49 +97,6 @@ class InfrastructureDevOpsEngineer:
 
 ---
 
-## Active Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### Artist Management App
-**Professional Artist Management**
-
-- Full-stack artist management platform
-- AI-powered content generation
-- Analytics & insights dashboard
-- Modern tech stack
-
-**Tech:** Python, AI Integration, Web Development
-
-</td>
-<td width="50%">
-
-### Enterprise Network Automation Suite
-**IHK Certification Project**
-
-- VLAN Calculator (✅ Complete)
-- IP Management System
-- Config Template Generator  
-- AI Network Assistant (Main Project)
-
-**Tech:** Python, Cisco, Network Automation
-
-</td>
-</tr>
-</table>
-
-</div>
-
-### 🏗️ Other Notable Work
-- **Ethical AI Post Agent** @ FemAI - LinkedIn content generation with ethical AI safeguards
-- **Multi-Site Network Lab** - 41 devices, 5 VLANs, OSPF routing in Cisco Packet Tracer
-
----
-
 ## 💡 Philosophy & Values
 
 <div align="center">
