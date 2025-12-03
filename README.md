@@ -101,17 +101,17 @@ class InfrastructureDevOpsEngineer:
 
 <div align="center">
 
-### 🤖 "Building Ethical AI, Automating Tomorrow"
+### "Building Ethical AI, Automating the future"
 
 *"The only truly secure system is one that's automated, monitored, and built with ethical principles at its core."*
 
 **Core Values:**
 ```
-🔹 Ethical AI First - Technology must serve humanity
-🔹 Automation Excellence - Eliminate repetition, focus on innovation  
-🔹 Continuous Learning - Every day is an opportunity to grow
-🔹 100% Commitment - Accept nothing less than excellence
-🔹 Knowledge Sharing - Lift others as you climb
+- Ethical AI First - Technology must serve humanity
+- Automation Excellence - Eliminate repetition, focus on innovation  
+- Continuous Learning - Every day is an opportunity to grow
+- 100% Commitment - Accept nothing less than excellence
+- Knowledge Sharing - Lift others as you climb
 ```
 
 </div>
