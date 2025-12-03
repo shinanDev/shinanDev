@@ -54,7 +54,7 @@ class InfrastructureDevOpsEngineer:
 
 ---
 
-## 🏆 Certifications & Achievements
+## Certifications & Achievements
 
 <div align="center">
 
@@ -108,17 +108,17 @@ class InfrastructureDevOpsEngineer:
 ### Artist Management App
 **Professional Artist Management**
 
-- 🎨 Full-stack artist management platform
-- 🤖 AI-powered content generation
-- 📊 Analytics & insights dashboard
-- 🎯 Modern tech stack
+- Full-stack artist management platform
+- AI-powered content generation
+- Analytics & insights dashboard
+- Modern tech stack
 
 **Tech:** Python, AI Integration, Web Development
 
 </td>
 <td width="50%">
 
-### 🌐 Enterprise Network Automation Suite
+### Enterprise Network Automation Suite
 **IHK Certification Project**
 
 - 📱 VLAN Calculator (✅ Complete)
