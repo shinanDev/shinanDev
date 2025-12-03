@@ -121,10 +121,10 @@ class InfrastructureDevOpsEngineer:
 ### Enterprise Network Automation Suite
 **IHK Certification Project**
 
-- 📱 VLAN Calculator (✅ Complete)
-- 🔧 IP Management System
-- 📝 Config Template Generator  
-- 🤖 AI Network Assistant (Main Project)
+- VLAN Calculator (✅ Complete)
+- IP Management System
+- Config Template Generator  
+- AI Network Assistant (Main Project)
 
 **Tech:** Python, Cisco, Network Automation
 
