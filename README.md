@@ -45,10 +45,9 @@ class InfrastructureDevOpsEngineer:
     
     def get_philosophy(self):
         return """
-        🤖 Automate everything, optimize relentlessly
-        🛡️ Build ethical AI that respects humanity
-        📚 Learn continuously, share knowledge freely
-        🎯 Strive for 100% - accept nothing less
+        ‣ Automate everything, optimize relentlessly
+        ‣ Build ethical AI that respects humanity
+        ‣ Learn continuously, share knowledge freely
         """
 ```
 
