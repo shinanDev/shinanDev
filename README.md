@@ -87,19 +87,14 @@ class InfrastructureDevOpsEngineer:
 </tr>
 </table>
 
-**Score:** 800/500 points | **Result:** 100% in all areas ✅
-
-**Issued:** July 21, 2025
-
 ---
 
-**Other Achievements:**
-- ☁️ Google Cloud LLM Certification
-- 🏅 LeadWithAIAgents Hackathon 2025 - Silicon Valley Participant
+**Other Achievements:** 
+☁️ Google Cloud LLM Certification
+
 
 </div>
 
-**Goal:** 🎯 IHK Certification with 100% (like my Linux cert!)
 
 
 ## Tech Arsenal
