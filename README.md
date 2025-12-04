@@ -41,7 +41,7 @@ class InfrastructureDevOpsEngineer:
             await self.design()
             await self.code()
             await self.optimize()
-            print("✅ Another network automated!")
+            print("Another network automated!")
     
     def get_philosophy(self):
         return """
@@ -68,7 +68,7 @@ class InfrastructureDevOpsEngineer:
 
 ---
 
-## 🎛️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -97,7 +97,7 @@ class InfrastructureDevOpsEngineer:
 
 ---
 
-## 💡 Philosophy & Values
+## Philosophy & Values
 
 ### "Building Ethical AI, Automating the future"
 
@@ -113,7 +113,7 @@ class InfrastructureDevOpsEngineer:
 ```
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
