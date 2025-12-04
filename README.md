@@ -82,7 +82,7 @@ class InfrastructureDevOpsEngineer:
 ---
 
 **Other Achievements:**
-- ☁️ Google Cloud LLM Certification
+☁️ Google Cloud LLM Certification
 
 </div>
 
