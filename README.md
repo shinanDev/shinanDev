@@ -77,7 +77,11 @@ class InfrastructureDevOpsEngineer:
 
 **Badge via Credly**
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="165fda95-ddb3-4947-95f1-aa629dfaf027" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/165fda95-ddb3-4947-95f1-aa629dfaf027" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/4c6a3c3a-e1dd-46f7-bcaf-cc069dd4299b/image.png" alt="LPI Linux Essentials - Credly" width="200"/>
+</a>
+
+[Verify on Credly](https://www.credly.com/badges/165fda95-ddb3-4947-95f1-aa629dfaf027)
 
 </td>
 </tr>
@@ -94,6 +98,8 @@ class InfrastructureDevOpsEngineer:
 - 🏅 LeadWithAIAgents Hackathon 2025 - Silicon Valley Participant
 
 </div>
+
+**Goal:** 🎯 IHK Certification with 100% (like my Linux cert!)
 
 
 ## Tech Arsenal
