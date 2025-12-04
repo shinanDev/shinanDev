@@ -57,11 +57,44 @@ class InfrastructureDevOpsEngineer:
 ## Certifications & Achievements
 
 <div align="center">
-    <a href="https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw" target="_blank">
-      <img src="https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw/image" alt="LPI Linux Essentials Certificate" width="200"/>
-    </a>
-    </div>
+
+### 🐧 Linux Professional Institute - Linux Essentials
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Badge via Badgr**
+
+<a href="https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw" target="_blank">
+  <img src="https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw/image" alt="LPI Linux Essentials Certificate" width="200"/>
+</a>
+
+[Verify on Badgr](https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw)
+
+</td>
+<td align="center" width="50%">
+
+**Badge via Credly**
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="165fda95-ddb3-4947-95f1-aa629dfaf027" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+</td>
+</tr>
+</table>
+
+**Score:** 800/500 points | **Result:** 100% in all areas ✅
+
+**Issued:** July 21, 2025
+
 ---
+
+**Other Achievements:**
+- ☁️ Google Cloud LLM Certification
+- 🏅 LeadWithAIAgents Hackathon 2025 - Silicon Valley Participant
+
+</div>
+
 
 ## Tech Arsenal
 
