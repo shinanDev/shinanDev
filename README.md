@@ -144,8 +144,8 @@ class InfrastructureDevOpsEngineer:
 
 <div align="center">
 
-### 💬 *"Yesterday is history. Tomorrow is a mystery. Today is a gift.*
-##  *And that's why it called the present."*
+### *"Yesterday is history. Tomorrow is a mystery. Today is a gift.*
+###  *And that's why it called the present."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PhilippPrinzen&color=00D9FF&style=flat-square&label=Profile+Views)
 
