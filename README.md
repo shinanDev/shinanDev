@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./terminal_banner.gif" alt="shinanDev Terminal" width="100%"/>
+  <img src="./terminal_banner_v2.gif" alt="shinanDev Terminal" width="100%"/>
 </div>
 
 <br/>
