@@ -53,7 +53,7 @@ class InfrastructureDevOpsEngineer:
 
 ---
 
-## Certifications & Achievements
+## Certifications
 
 <div align="center">
 <table>
