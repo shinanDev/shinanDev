@@ -132,7 +132,7 @@ class InfrastructureDevOpsEngineer:
 
 ---
 
-## Connect With Me
+## Connect
 
 <div align="center">
 
