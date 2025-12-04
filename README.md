@@ -56,10 +56,11 @@ class InfrastructureDevOpsEngineer:
 
 ## Certifications & Achievements
 
-<a href="https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw" target="_blank">
-  <img src="https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw/image" alt="LPI Linux Essentials Certificate" width="200"/>
-</a>
-
+<div align="center">
+    <a href="https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw" target="_blank">
+      <img src="https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw/image" alt="LPI Linux Essentials Certificate" width="200"/>
+    </a>
+</div>
 ---
 
 ## Tech Arsenal
