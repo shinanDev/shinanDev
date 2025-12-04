@@ -56,14 +56,9 @@ class InfrastructureDevOpsEngineer:
 ## Certifications & Achievements
 
 <div align="center">
-
-### Linux Professional Institute - Linux Essentials
-
 <table>
 <tr>
 <td align="center" width="50%">
-
-**Badge via Badgr**
 
 <a href="https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw" target="_blank">
   <img src="https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw/image" alt="LPI Linux Essentials Certificate" width="200"/>
@@ -73,8 +68,6 @@ class InfrastructureDevOpsEngineer:
 
 </td>
 <td align="center" width="50%">
-
-**Badge via Credly**
 
 <a href="https://www.credly.com/badges/165fda95-ddb3-4947-95f1-aa629dfaf027/public_url" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/64199ea4-77c5-4bd5-8652-08c357b3330a/blob" alt="LPI Linux Essentials - Credly" width="200"/>
