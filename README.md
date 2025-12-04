@@ -60,9 +60,6 @@ class InfrastructureDevOpsEngineer:
     <a href="https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw" target="_blank">
       <img src="https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw/image" alt="LPI Linux Essentials Certificate" width="200"/>
     </a>
-         <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="165fda95-ddb3-4947-95f1-aa629dfaf027" data-share-badge-host="https://www.credly.com">
-            </div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">
-            </script>
     </div>
 ---
 
