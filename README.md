@@ -57,6 +57,8 @@ class InfrastructureDevOpsEngineer:
 
 <div align="center">
 
+### Linux Professional Institute - Linux Essentials
+
 <table>
 <tr>
 <td align="center" width="50%">
@@ -74,11 +76,11 @@ class InfrastructureDevOpsEngineer:
 
 **Badge via Credly**
 
-<a href="https://www.credly.com/badges/165fda95-ddb3-4947-95f1-aa629dfaf027" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/4c6a3c3a-e1dd-46f7-bcaf-cc069dd4299b/image.png" alt="LPI Linux Essentials - Credly" width="200"/>
+<a href="https://www.credly.com/badges/165fda95-ddb3-4947-95f1-aa629dfaf027/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/64199ea4-77c5-4bd5-8652-08c357b3330a/blob" alt="LPI Linux Essentials - Credly" width="200"/>
 </a>
 
-[Verify on Credly](https://www.credly.com/badges/165fda95-ddb3-4947-95f1-aa629dfaf027)
+[Verify on Credly](https://www.credly.com/badges/165fda95-ddb3-4947-95f1-aa629dfaf027/public_url)
 
 </td>
 </tr>
@@ -86,13 +88,10 @@ class InfrastructureDevOpsEngineer:
 
 ---
 
-**Other Achievements:** 
-☁️ Google Cloud LLM Certification
-
+**Other Achievements:**
+- ☁️ Google Cloud LLM Certification
 
 </div>
-
-
 
 ## Tech Arsenal
 
