@@ -58,8 +58,6 @@ class InfrastructureDevOpsEngineer:
 
 <div align="center">
 
-### 🐧 Linux Professional Institute - Linux Essentials
-
 <table>
 <tr>
 <td align="center" width="50%">
