@@ -56,34 +56,9 @@ class InfrastructureDevOpsEngineer:
 
 ## Certifications & Achievements
 
-{
-  "type": "Assertion",
-  "id": "https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw",
-  "@context": "https://w3id.org/openbadges/v2",
-  "recipient": {
-    "type": "email",
-    "salt": "6Wc4l2oky8hkzF0x",
-    "hashed": true,
-    "identity": "sha256$35f0af43d37408650bb4aa565d46e457c581c72701c0362f7dc0ee0e11fc2e39"
-  },
-  "badge": "https://api.badgr.io/public/badges/KsYCTNwjR8aBW9Qw3uFwJw",
-  "issuedOn": "2025-07-21T05:00:00Z",
-  "image": {
-    "id": "https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw/image"
-  },
-  "revoked": false,
-  "verification": {
-    "type": "HostedBadge"
-  },
-  "extensions:recipientProfile": {
-    "name": "Philipp Prinzen",
-    "@context": "https://openbadgespec.org/extensions/recipientProfile/context.json",
-    "type": [
-      "Extension",
-      "extensions:RecipientProfile"
-    ]
-  }
-}
+<a href="https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw" target="_blank">
+  <img src="https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw/image" alt="LPI Linux Essentials Certificate" width="200"/>
+</a>
 
 ---
 
