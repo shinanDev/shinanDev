@@ -132,8 +132,6 @@ class InfrastructureDevOpsEngineer:
 
 ---
 
-## Connect
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philipp-prinzen-46a51a166/)
@@ -146,7 +144,8 @@ class InfrastructureDevOpsEngineer:
 
 <div align="center">
 
-### 💬 *"Automate relentlessly. Optimize continuously. Build ethically."*
+### 💬 *"Yesterday is history. Tomorrow is a mystery. Today is a gift."*
+###  *"And that's why it called the present."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PhilippPrinzen&color=00D9FF&style=flat-square&label=Profile+Views)
 
