@@ -99,8 +99,6 @@ class InfrastructureDevOpsEngineer:
 
 ## 💡 Philosophy & Values
 
-<div align="center">
-
 ### "Building Ethical AI, Automating the future"
 
 *"The only truly secure system is one that's automated, monitored, and built with ethical principles at its core."*
@@ -113,9 +111,6 @@ class InfrastructureDevOpsEngineer:
 - 100% Commitment - Accept nothing less than excellence
 - Knowledge Sharing - Lift others as you climb
 ```
-
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
