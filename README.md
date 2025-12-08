@@ -22,6 +22,7 @@ class InfrastructureDevOpsEngineer:
             "VMware & Storage",
             "AI Integration",
             "Ethical AI Principles"
+            "Lifelong Learner"
         ]
         
         self.current_work = {
@@ -30,7 +31,7 @@ class InfrastructureDevOpsEngineer:
             "Student": "BBQ Hamburg (Jun 2025 - Jun 2027)"
         }
         
-        self.experience = "10+ years IT Infrastructure"
+        self.experience = "11+ years IT Infrastructure"
     
     async def automate_infrastructure(self):
         while True:
@@ -100,8 +101,6 @@ class InfrastructureDevOpsEngineer:
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Hornetsecurity](https://img.shields.io/badge/Hornetsecurity-FF6600?style=for-the-badge&logo=security&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
 
 ### AI & Development
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=D4A574)
