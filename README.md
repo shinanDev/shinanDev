@@ -12,7 +12,7 @@
 class InfrastructureDevOpsEngineer:
     def __init__(self):
         self.name = "Philipp"
-        self.role = "Junior Developer | Infrastructure Specialist"
+        self.role = "Junior Developer | AI Engineer in training"
         self.location = "Hamburg, Germany"
         self.education = "Fachinformatiker Anwendungsentwicklung @ BBQ Hamburg"
         
@@ -25,7 +25,7 @@ class InfrastructureDevOpsEngineer:
             "Lifelong Learner"
         ]
         
-        self.current_work = {
+        self.recent_work = {
             "Junior Developer": "FemAI - Ethical AI Solutions",
             "AI Trainer": "Outlier.ai",
             "Student": "BBQ Hamburg (Jun 2025 - Jun 2027)"
