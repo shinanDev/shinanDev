@@ -26,9 +26,9 @@ class Developer_AI_Engineer:
         ]
         
         self.recent_work = {
-            "Junior Developer(6m)": "FemAI - Ethical AI Solutions",
-            "AI Trainer(1y)": "Outlier.ai",
-            "System Engineer(3+y)": "Vater Business IT",
+            "Junior Developer (6m)": "FemAI - Ethical AI Solutions",
+            "AI Trainer (1y)": "Outlier.ai",
+            "System Engineer (3+y)": "Vater Business IT",
             "IT Helpdesk (3+y)": "3net GmbH"
         }
         self.current_education = {
