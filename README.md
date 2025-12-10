@@ -26,19 +26,16 @@ class InfrastructureDevOpsEngineer:
         ]
         
         self.recent_work = {
-            "Junior Developer": "FemAI - Ethical AI Solutions",
-            "AI Trainer": "Outlier.ai",
+            "Junior Developer(6m)": "FemAI - Ethical AI Solutions",
+            "AI Trainer(1y)": "Outlier.ai",
+            "System Engineer(3+y)": "Vater Business IT",
+            "IT Helpdesk (3+y)": "3net GmbH"
+        }
+        self.current_education = {
             "Student": "BBQ Hamburg (Jun 2025 - Jun 2027)"
         }
         
         self.experience = "11+ years IT Infrastructure"
-    
-    async def automate_infrastructure(self):
-        while True:
-            await self.design()
-            await self.code()
-            await self.optimize()
-            print("Another network automated!")
     
     def get_philosophy(self):
         return """
