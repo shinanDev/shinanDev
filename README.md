@@ -9,7 +9,7 @@
 ## About Me
 
 ```python
-class InfrastructureDevOpsEngineer:
+class Developer_AI_Engineer:
     def __init__(self):
         self.name = "Philipp"
         self.role = "Junior Developer | AI Engineer in training"
