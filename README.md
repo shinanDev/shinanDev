@@ -46,7 +46,7 @@ class Developer_AI_Engineer:
 
     def current_focus(self):
         return [
-            "IHK Certification - Network Automation Suite",
+            "IHK Certification - Fachinformatiker fuer Anwendungsentwicklung",
             "Building Ethical AI applications",
             "Goal: AI Engineer role (2027)"
         ]
