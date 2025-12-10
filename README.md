@@ -38,7 +38,7 @@ class InfrastructureDevOpsEngineer:
         self.experience = "11+ years IT Infrastructure"
     
     def get_philosophy(self):
-        return """
+        return "principles"
         ‣ Automate everything, optimize relentlessly
         ‣ Build ethical AI that respects humanity
         ‣ Learn continuously, share knowledge freely
