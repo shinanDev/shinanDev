@@ -21,7 +21,7 @@ class Developer_AI_Engineer:
             "Python Development", 
             "VMware & Storage",
             "AI Integration",
-            "Ethical AI Principles"
+            "Ethical AI Principles",
             "Lifelong Learner"
         ]
         
@@ -38,11 +38,19 @@ class Developer_AI_Engineer:
         self.experience = "11+ years IT Infrastructure"
     
     def get_philosophy(self):
-        return "principles"
+        return """
         ‣ Automate everything, optimize relentlessly
         ‣ Build ethical AI that respects humanity
         ‣ Learn continuously, share knowledge freely
+        """
 
+    def current_focus(self):
+        return [
+            "IHK Certification - Network Automation Suite",
+            "Building Ethical AI applications",
+            "Goal: AI Engineer role (2027)"
+        ]
+  
 ```
 
 ---
