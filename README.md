@@ -42,7 +42,7 @@ class Developer_AI_Engineer:
         ‣ Automate everything, optimize relentlessly
         ‣ Build ethical AI that respects humanity
         ‣ Learn continuously, share knowledge freely
-        dev.name = "shinanDev"
+
 ```
 
 ---
