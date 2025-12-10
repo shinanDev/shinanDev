@@ -42,7 +42,7 @@ class InfrastructureDevOpsEngineer:
         ‣ Automate everything, optimize relentlessly
         ‣ Build ethical AI that respects humanity
         ‣ Learn continuously, share knowledge freely
-        dev_name = "shinanDev"
+        dev.name = "shinanDev"
 ```
 
 ---
