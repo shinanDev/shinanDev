@@ -40,7 +40,8 @@ class Developer_AI_Engineer:
     
     def get_philosophy(self):
         return """
-        ‣ Automate everything, optimize relentlessly
+        ‣ Automate
+        ‣ Review, hands-on, optimize
         ‣ Build ethical AI that respects humanity
         ‣ Learn continuously, share knowledge freely
         """
