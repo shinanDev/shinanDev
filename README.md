@@ -30,7 +30,7 @@ class Developer_AI_Engineer:
             "AI Trainer (1y)": "Outlier.ai",
             "System Engineer (3+y)": "Vater Business IT",
             "IT Helpdesk (3+y)": "3net GmbH",
-            "IT Technician (4y)": "Freelancer & DIS Daten IT Service GmbH)"
+            "IT Technician (4y)": "Freelancer & DIS Daten IT Service GmbH"
         }
         self.current_education = {
             "Student": "BBQ Hamburg (Jun 2025 - Jun 2027)"
