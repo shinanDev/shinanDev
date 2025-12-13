@@ -32,9 +32,6 @@ class Developer_AI_Engineer:
             "IT Helpdesk (3+y)": "3net GmbH",
             "IT Technician (4y)": "Freelancer & DIS Daten IT Service GmbH"
         }
-        self.current_education = {
-            "Student": "BBQ Hamburg (Jun 2025 - Jun 2027)"
-        }
         
         self.experience = "11+ years IT Infrastructure"
 
