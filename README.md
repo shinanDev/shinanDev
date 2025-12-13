@@ -37,6 +37,23 @@ class Developer_AI_Engineer:
         }
         
         self.experience = "11+ years IT Infrastructure"
+
+    def current_projects(self):
+        return {
+            "BKartA Network Architecture": {
+                "description": "Enterprise network design for 400 users",
+                "tech": ["VLANs", "Zero Trust", "Multi-Site", "Filius", "draw.io"],
+                "docs": "150+ pages",
+                "team": "9 members",
+                "status": "Completed (Dec 2025)"
+            },
+
+            "AI Agent Development": {
+                "description": "Building intelligent automation agents",
+                "tech": ["Python", "Claude API", "Local LLMs"],
+                "status": "In Progress"
+              }
+          }
     
     def get_philosophy(self):
         return """
