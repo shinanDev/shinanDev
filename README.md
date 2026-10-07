@@ -98,6 +98,31 @@ class Developer_AI_Engineer:
 </tr>
 </table>
 
+<tr>
+<td align="center" width="50%">
+
+<a href="https://mylogin.exin.nl/?Script=GetLinkedInPost&CandidateCertificateGUID=B19D27B0-C8C4-4C10-837C-D4421A9F0C86&ts=1065805890" target="_blank">
+  <img src="https://img.shields.io/badge/EXIN-Agile_Scrum_Master-003A70?style=for-the-badge" alt="EXIN Agile Scrum Master (ASM)"/>
+</a>
+
+Issued Mar 2026 · ID 6682778.20911783
+
+[Verify on EXIN](https://mylogin.exin.nl/?Script=GetLinkedInPost&CandidateCertificateGUID=B19D27B0-C8C4-4C10-837C-D4421A9F0C86&ts=1065805890)
+
+</td>
+<td align="center" width="50%">
+
+<a href="https://mylogin.exin.nl/?Script=GetLinkedInPost&CandidateCertificateGUID=D30ADCC4-1F93-4054-94CB-D7B8C9D8B1EE&ts=1065593531" target="_blank">
+  <img src="https://img.shields.io/badge/EXIN-Agile_Scrum_Product_Owner-003A70?style=for-the-badge" alt="EXIN Agile Scrum Product Owner (ASPO)"/>
+</a>
+
+Issued Apr 2026 · ID 6682778.20911784
+
+[Verify on EXIN](https://mylogin.exin.nl/?Script=GetLinkedInPost&CandidateCertificateGUID=D30ADCC4-1F93-4054-94CB-D7B8C9D8B1EE&ts=1065593531)
+
+</td>
+</tr>
+
 ---
 
 **Other Achievements:**
