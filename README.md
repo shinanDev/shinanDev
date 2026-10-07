@@ -77,47 +77,44 @@ class Developer_AI_Engineer:
 <div align="center">
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="25%">
 
 <a href="https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw" target="_blank">
-  <img src="https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw/image" alt="LPI Linux Essentials Certificate" width="200"/>
+  <img src="https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw/image" alt="GenAI.Works Hackathon 2025 - LeadWithAIAgents Participant" width="150"/>
 </a>
 
 [Verify on Badgr](https://api.badgr.io/public/assertions/R1d0RrbGQT2Koi9HNcj8yw)
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="25%">
 
 <a href="https://www.credly.com/badges/165fda95-ddb3-4947-95f1-aa629dfaf027/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/64199ea4-77c5-4bd5-8652-08c357b3330a/blob" alt="LPI Linux Essentials - Credly" width="200"/>
+  <img src="https://images.credly.com/size/340x340/images/64199ea4-77c5-4bd5-8652-08c357b3330a/blob" alt="LPI Linux Essentials - Credly" width="150"/>
 </a>
 
 [Verify on Credly](https://www.credly.com/badges/165fda95-ddb3-4947-95f1-aa629dfaf027/public_url)
 
 </td>
-</tr>
-</table>
-
-<tr>
-<td align="center" width="50%">
+<td align="center" width="25%">
 
 <a href="https://mylogin.exin.nl/?Script=GetLinkedInPost&CandidateCertificateGUID=B19D27B0-C8C4-4C10-837C-D4421A9F0C86&ts=1065805890" target="_blank">
-  <img src="./exin_asm.png" alt="EXIN Agile Scrum Master (ASM)" width="200"/>
+  <img src="./exin_asm.png" alt="EXIN Agile Scrum Master (ASM)" width="150"/>
 </a>
 
 [Verify on EXIN](https://mylogin.exin.nl/?Script=GetLinkedInPost&CandidateCertificateGUID=B19D27B0-C8C4-4C10-837C-D4421A9F0C86&ts=1065805890)
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="25%">
 
 <a href="https://mylogin.exin.nl/?Script=GetLinkedInPost&CandidateCertificateGUID=D30ADCC4-1F93-4054-94CB-D7B8C9D8B1EE&ts=1065593531" target="_blank">
-  <img src="./exin_aspo.png" alt="EXIN Agile Scrum Product Owner (ASPO)" width="200"/>
+  <img src="./exin_aspo.png" alt="EXIN Agile Scrum Product Owner (ASPO)" width="150"/>
 </a>
 
 [Verify on EXIN](https://mylogin.exin.nl/?Script=GetLinkedInPost&CandidateCertificateGUID=D30ADCC4-1F93-4054-94CB-D7B8C9D8B1EE&ts=1065593531)
 
 </td>
 </tr>
+</table>
 
 ---
 
