@@ -14,7 +14,7 @@ class Developer_AI_Engineer:
         self.name = "Philipp"
         self.role = "Junior Developer | AI Engineer in training"
         self.location = "Hamburg, Germany"
-        self.education = "Fachinformatiker Anwendungsentwicklung @ BBQ Hamburg"
+        self.education = "Fachinformatiker fuer Systemintegration @ BBQ Hamburg"
         
         self.expertise = [
             "Network Automation",
@@ -58,12 +58,12 @@ class Developer_AI_Engineer:
         ‣ Review, hands-on, optimize
         ‣ Build ethical AI that respects humanity
         ‣ Learn continuously, share knowledge freely
-        ‣ Geshinandevgenitzen whenever possible! 🌿 💻
+        ‣ Geshinandevgenitzt whenever possible! 🌿 💻
         """
 
     def current_focus(self):
         return [
-            "IHK Certification - Fachinformatiker fuer Anwendungsentwicklung",
+            "IHK Certification - Fachinformatiker fuer Systemintegration",
             "Building Ethical AI applications",
             "Goal: AI Engineer role (2027)"
         ]
