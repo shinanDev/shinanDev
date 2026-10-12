@@ -201,8 +201,6 @@ class Developer_AI_Engineer:
 ### *"Yesterday is history. Tomorrow is a mystery. Today is a gift.*
 ###  *And that's why it called the present."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=PhilippPrinzen&color=00D9FF&style=flat-square&label=Profile+Views)
-
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
