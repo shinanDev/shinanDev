@@ -19,17 +19,17 @@ class Developer_AI_Engineer:
         self.expertise = [
             "Network Automation",
             "Python Development", 
-            "VMware & Storage",
             "AI Integration",
             "Ethical AI Principles",
             "Lifelong Learner"
         ]
         
         self.recent_work = {
+            "currently at 3NET GmbH for apprenticeship"
             "Junior Developer (6m)": "FemAI - Ethical AI Solutions",
             "AI Trainer (1y)": "Outlier.ai",
             "System Engineer (3+y)": "Vater Business IT",
-            "IT Helpdesk (3+y)": "3net GmbH",
+            "IT Service Desk (3+y)": "3NET GmbH",
             "IT Technician (4y)": "Freelancer & DIS Daten IT Service GmbH"
         }
         
@@ -65,7 +65,7 @@ class Developer_AI_Engineer:
         return [
             "IHK Certification - Fachinformatiker fuer Systemintegration",
             "Building Ethical AI applications",
-            "Goal: AI Engineer role (2027)"
+            "Goal: AI Engineer role in 2027"
         ]
   
 ```
